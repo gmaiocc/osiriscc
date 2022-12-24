@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d38385a.css",
+    "main.js": "/static/js/main.9ccb34b5.js",
+    "static/media/vector13.svg": "/static/media/vector13.59dc3a53b81a0f27b066.svg",
+    "static/media/dark-mode-gradient.svg": "/static/media/dark-mode-gradient.4b15406cdd06a20d4548.svg",
+    "static/media/stitches-gradient.svg": "/static/media/stitches-gradient.3d9a0424e0e4048b8388.svg",
+    "static/media/theming-gradient.svg": "/static/media/theming-gradient.9187e96f1b340ecf4164.svg",
+    "index.html": "/index.html",
+    "main.2d38385a.css.map": "/static/css/main.2d38385a.css.map",
+    "main.9ccb34b5.js.map": "/static/js/main.9ccb34b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d38385a.css",
+    "static/js/main.9ccb34b5.js"
+  ]
+}

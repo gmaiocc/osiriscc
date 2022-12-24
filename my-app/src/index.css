@@ -1,0 +1,55 @@
+body {
+  background-image: url(./../assets/dark-mode-gradient.svg), url(./../assets/vector13.svg), url(./../assets/stitches-gradient.svg), url(./../assets/theming-gradient.svg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden
+}
+.wrapperz{
+    box-sizing: content-box;
+    display: flex;
+}
+
+.wordsz{
+    overflow: hidden;
+    margin: 0;
+    height: 5em;
+}
+.paypal-button-container {
+    background-color: transparent;
+}
+.a{
+    display: block;
+    height: 100%;
+    animation: spin_words 9s infinite;
+    line-height: 1em;
+    text-align: left;
+    font-size: 56px;
+    font-family: 'Inter';
+    font-weight: bold;
+}
+@keyframes spin_words {
+    10% {
+        transform: translateY(-105%);
+    }
+    25% {
+        transform: translateY(-100%);
+    }
+    35% {
+        transform: translateY(-205%);
+    }
+    50% {
+        transform: translateY(-200%);
+    }
+    60% {
+        transform: translateY(-305%);
+    }
+    75% {
+        transform: translateY(-300%);
+    }
+    85% {
+        transform: translateY(-405%);
+    }
+    100% {
+        transform: translateY(-400%);
+    }
+}
